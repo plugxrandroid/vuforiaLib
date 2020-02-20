@@ -29,4 +29,6 @@ dependencies {
 
     implementation project(':unitylibrary')
 
+    //implementation 'com.github.plugxrandroid:vuforiaLib:0.01'
+
 }
