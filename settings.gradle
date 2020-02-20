@@ -1,2 +1,1 @@
-include ':app', ':unitylibrary'
-rootProject.name='VuforiaLib'
+include ':app', ':unityLibrary'
