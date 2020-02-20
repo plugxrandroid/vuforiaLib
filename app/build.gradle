@@ -27,8 +27,8 @@ dependencies {
     androidTestImplementation 'androidx.test.ext:junit:1.1.1'
     androidTestImplementation 'androidx.test.espresso:espresso-core:3.2.0'
 
-    implementation project(':unityLibrary')
-
+    //implementation project(':unityLibrary')
+    implementation 'com.github.plugxrandroid:vuforiaLib:0.02'
     //implementation 'com.github.plugxrandroid:vuforiaLib:0.01'
 
 }
